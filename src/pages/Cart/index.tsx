@@ -115,7 +115,9 @@ const Cart = (): JSX.Element => {
       </ProductTable>
 
       <footer>
-        <a href={`https://wa.me/?text=Eu desejo comprar%20${whatsAppData}%20e%20o%20total%20deu%20${total}`} type="button">Finalizar pedido</a>
+        <a href={`https://wa.me/?text=Eu desejo comprar%20${whatsAppData}%20e%20o%20total%20deu%20${total}`} type="button">
+          <button type="button">Finalizar pedido</button>
+        </a>
 
         <Total>
           <span>TOTAL</span>
