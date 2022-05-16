@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Gold",
+      "price": 580.0,
+      "image": "https://xat.com/images/smw/gold.png"
+    },
+    {
+      "id": 2,
+      "title": "Ruby",
+      "price": 1200.0,
+      "image": "https://gs.xat.com/a_(ruby)_40"
+    },
+    {
+      "id": 3,
+      "title": "Namecolor",
+      "price": 125.0,
+      "image": "https://xat.com/images/smw/namecolor.png"
+    },
+    {
+      "id": 5,
+      "title": "Namewave",
+      "price": 280.0,
+      "image": "https://xat.com/images/smw/namewave.png"
+    },
+    {
+      "id": 6,
+      "title": "Namegrad",
+      "price": 110.0,
+      "image": "https://xat.com/images/smw/namegrad.png"
+    },
+    {
+      "id": 4,
+      "title": "Gback",
+      "price": 110.0,
+      "image": "https://xat.com/images/smw/gback.png"
+    }
+  ]
+}
